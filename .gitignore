@@ -1,0 +1,25 @@
+# Raw physiological datasets (> 3 GB raw EEG/Gait/Voice datasets)
+data/raw/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit secrets (keep config.toml)
+.streamlit/secrets.toml
