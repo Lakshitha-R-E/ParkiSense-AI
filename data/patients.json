@@ -1,0 +1,50 @@
+[
+  {
+    "patient_id": "PAT-2024-001",
+    "name": "John Doe",
+    "age": 68,
+    "gender": "Male",
+    "clinician": "Dr. Sarah Jenkins",
+    "diagnosis_date": "2021-04-15",
+    "disease_duration_years": 3.5,
+    "medications": "Levodopa/Carbidopa 100/25mg TID",
+    "notes": "Idiopathic PD with right-dominant resting tremor and moderate gait bradykinesia.",
+    "created_at": "2024-01-10"
+  },
+  {
+    "patient_id": "PAT-2024-002",
+    "name": "Eleanor Vance",
+    "age": 72,
+    "gender": "Female",
+    "clinician": "Dr. Aris Thorne",
+    "diagnosis_date": "2019-08-20",
+    "disease_duration_years": 5.1,
+    "medications": "Pramipexole 1.5mg, Rasagiline 1mg",
+    "notes": "Moderate gait freezing episodes and vocal hypophonia. Regular physical therapy.",
+    "created_at": "2024-02-14"
+  },
+  {
+    "patient_id": "PAT-2024-003",
+    "name": "Robert Chen",
+    "age": 61,
+    "gender": "Male",
+    "clinician": "Dr. Sarah Jenkins",
+    "diagnosis_date": "2023-01-10",
+    "disease_duration_years": 1.2,
+    "medications": "Selegiline 5mg daily",
+    "notes": "Early stage tremor-dominant PD. Excellent medication response.",
+    "created_at": "2024-05-01"
+  },
+  {
+    "patient_id": "PAT-2024-004",
+    "name": "Alice",
+    "age": 50,
+    "gender": "Female",
+    "clinician": "Dr. Paul",
+    "diagnosis_date": "2026-09-21",
+    "disease_duration_years": 0.0,
+    "medications": "",
+    "notes": "",
+    "created_at": "2026-09-21"
+  }
+]

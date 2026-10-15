@@ -1,0 +1,155 @@
+{
+  "PAT-2024-001": [
+    {
+      "assessment_id": "AST-1001",
+      "date": "2025-09-21",
+      "updrs_score": 28.4,
+      "severity_label": "Mild",
+      "voice_status": "GOOD",
+      "eeg_status": "GOOD",
+      "gait_status": "GOOD",
+      "fusion_mode": "Trimodal Fusion (Voice + EEG + Gait)",
+      "fallback_status": "NOT REQUIRED",
+      "clinician": "Dr. Sarah Jenkins",
+      "notes": "Initial baseline evaluation. Mild resting tremor in right hand."
+    },
+    {
+      "assessment_id": "AST-1002",
+      "date": "2025-12-25",
+      "updrs_score": 34.1,
+      "severity_label": "Mild",
+      "voice_status": "GOOD",
+      "eeg_status": "WARNING",
+      "gait_status": "GOOD",
+      "fusion_mode": "Trimodal Fusion (Voice + EEG + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Sarah Jenkins",
+      "notes": "Slight increase in vocal jitter. EEG theta power slightly elevated."
+    },
+    {
+      "assessment_id": "AST-1003",
+      "date": "2026-03-25",
+      "updrs_score": 41.8,
+      "severity_label": "Moderate",
+      "voice_status": "WARNING",
+      "eeg_status": "GOOD",
+      "gait_status": "WARNING",
+      "fusion_mode": "Trimodal Fusion (Voice + EEG + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Sarah Jenkins",
+      "notes": "Transitioned to Moderate severity. Gait asymmetry increased to 11.2%."
+    },
+    {
+      "assessment_id": "AST-1004",
+      "date": "2026-06-23",
+      "updrs_score": 45.2,
+      "severity_label": "Moderate",
+      "voice_status": "GOOD",
+      "eeg_status": "GOOD",
+      "gait_status": "WARNING",
+      "fusion_mode": "Trimodal Fusion (Voice + EEG + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Sarah Jenkins",
+      "notes": "Stable on adjusted Levodopa dose. Cadence 102 bpm."
+    },
+    {
+      "assessment_id": "AST-2024-001-05",
+      "date": "2026-09-21 20:21",
+      "updrs_score": NaN,
+      "severity_label": "Mild",
+      "confidence": NaN,
+      "voice_status": "GOOD",
+      "eeg_status": "WARNING",
+      "gait_status": "GOOD",
+      "fusion_mode": "Trimodal Fusion (Voice + EEG + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Specialist",
+      "notes": "Multimodal AI assessment session for John Doe."
+    },
+    {
+      "assessment_id": "AST-2024-001-06",
+      "date": "2026-09-29 10:31",
+      "updrs_score": 28.8,
+      "severity_label": "Mild",
+      "confidence": 49.0,
+      "voice_status": "GOOD",
+      "eeg_status": "MISSING",
+      "gait_status": "GOOD",
+      "fusion_mode": "Bimodal Fusion (Voice + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Specialist",
+      "notes": "Multimodal AI assessment session for John Doe."
+    },
+    {
+      "assessment_id": "AST-2024-001-07",
+      "date": "2026-09-29 11:45",
+      "updrs_score": 28.8,
+      "severity_label": "Mild",
+      "confidence": 49.0,
+      "voice_status": "GOOD",
+      "eeg_status": "MISSING",
+      "gait_status": "GOOD",
+      "fusion_mode": "Bimodal Fusion (Voice + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Specialist",
+      "notes": "Multimodal AI assessment session for John Doe."
+    },
+    {
+      "assessment_id": "AST-2024-001-08",
+      "date": "2026-09-29 11:46",
+      "updrs_score": 28.8,
+      "severity_label": "Mild",
+      "confidence": 49.0,
+      "voice_status": "GOOD",
+      "eeg_status": "MISSING",
+      "gait_status": "GOOD",
+      "fusion_mode": "Bimodal Fusion (Voice + Gait)",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Specialist",
+      "notes": "Saved from active severity assessment session."
+    }
+  ],
+  "PAT-2024-002": [
+    {
+      "assessment_id": "AST-2001",
+      "date": "2026-03-05",
+      "updrs_score": 48.0,
+      "severity_label": "Moderate",
+      "voice_status": "WARNING",
+      "eeg_status": "GOOD",
+      "gait_status": "WARNING",
+      "fusion_mode": "Trimodal Fusion",
+      "fallback_status": "ACTIVE",
+      "clinician": "Dr. Aris Thorne",
+      "notes": "Significant gait hesitancy and voice volume reduction."
+    },
+    {
+      "assessment_id": "AST-2002",
+      "date": "2026-07-23",
+      "updrs_score": 52.3,
+      "severity_label": "Moderate",
+      "voice_status": "GOOD",
+      "eeg_status": "GOOD",
+      "gait_status": "WARNING",
+      "fusion_mode": "Trimodal Fusion",
+      "fallback_status": "NOT REQUIRED",
+      "clinician": "Dr. Aris Thorne",
+      "notes": "Physical therapy improving step symmetry."
+    }
+  ],
+  "PAT-2024-003": [
+    {
+      "assessment_id": "AST-3001",
+      "date": "2026-05-24",
+      "updrs_score": 21.5,
+      "severity_label": "Mild",
+      "voice_status": "GOOD",
+      "eeg_status": "GOOD",
+      "gait_status": "GOOD",
+      "fusion_mode": "Trimodal Fusion",
+      "fallback_status": "NOT REQUIRED",
+      "clinician": "Dr. Sarah Jenkins",
+      "notes": "Early baseline assessment. Minimal motor impairment."
+    }
+  ]
+}
